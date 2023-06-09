@@ -25,7 +25,7 @@ x_train = sub_data[1:n]
 y_train = sub_data[0]
 
 input_size = 784    # 28 pixels * 28 pixels = 784 pixels
-hidden_size = 20    # TODO: EDIT NEURONS TO BE 15
+hidden_size = 15
 output_size = 10    # There can be only 10 outputs (numbers 0-9)
 
 # Initialize Weights
@@ -38,7 +38,7 @@ w2 = np.random.randn(output_size, hidden_size) * 0.01
 b1 = np.zeros((hidden_size, 1))
 b2 = np.zeros((output_size, 1))
 
-learning_rate = 0.02    # TODO: EDIT LEARNING RATE TO 0.01
+learning_rate = 0.02
 iterations = 2000
 
 # Convert integer labels to one-hot encoded vectors
