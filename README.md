@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/882079944627347466/1116623504360620083/1_qYjM4kLeyZotqLpkIn1RMA.png"/>
+  <img src="https://github.com/rahulio96/MNIST-Neural-Network/assets/122141535/ce891a13-074a-44a1-88d2-ff409a6f6593"/>
 </p>
+
   
 # MNIST Neural Network
 First neural network I've worked on, which has been made without libraries such as pytorch and tensorflow. 
