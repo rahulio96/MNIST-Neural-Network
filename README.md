@@ -3,7 +3,7 @@
 </p>
 
   
-# MNIST Neural Network
+# MNIST Neural Network (WIP)
 A trained neural network that identifies handwritten digits. For more details on how the model works and some of the methods I incorporated, feel free to checkout the jupyter notebook file in this repository!
 
 ## Description
