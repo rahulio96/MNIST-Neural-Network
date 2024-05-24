@@ -7,13 +7,14 @@
 A trained neural network that identifies handwritten digits. For more details on how the model works and some of the methods I incorporated, feel free to checkout the jupyter notebook file in this repository!
 
 ## Description
-- Neural network that identifies grey-scaled, 28 pixel x 28 pixel images of handwritten digits. 
-- Using the MNIST data set for training and validation.
+- Neural network that identifies grey-scaled, 28 pixel x 28 pixel images of handwritten digits
+- Using the MNIST digit data set for training and validation
+- Model accuracy on validation data is around 97%
+- 1 input layer, 3 hidden layers, and 1 output layer
 
-## General Information
-- The training and testing csv files were downloaded from [[Kaggle]](https://www.kaggle.com/c/digit-recognizer/data) 
-- Model accuracy on validation is around 96%
-- 1 input layer, 3 hidden layer, and 1 output layer
+## Data
+- The "mnist.csv" file was downloaded from Kaggle (training data): [[link]](https://www.kaggle.com/c/digit-recognizer/data)
+- MNIST images were also downloaded from Kaggle: [[link]](https://www.kaggle.com/datasets/scolianni/mnistasjpg)
 
 ## Libraries
 - Matplotlib
